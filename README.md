@@ -5,7 +5,7 @@ _(A learning project)_
 # Named Entity Recognition with BERT: Fine-Tuning on CoNLL-2003 Dataset
 
 **Author:** Felipe Rodriguez Angel
-**Video:** [https://youtu.be/phO7AJKw-9E](https://youtu.be/phO7AJKw-9E)
+**Video:** [Here](https://youtu.be/phO7AJKw-9E)
 ---
 
 ## 📖 **Project Overview**

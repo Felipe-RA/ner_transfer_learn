@@ -1,4 +1,4 @@
-(Test project)
+_(A learning project)_
 
 Video: PENDING
 

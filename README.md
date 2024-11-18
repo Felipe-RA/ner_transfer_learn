@@ -1,5 +1,7 @@
 (Test project)
 
+Video: PENDING
+
 # Named Entity Recognition with BERT: Fine-Tuning on CoNLL-2003 Dataset
 
 **Author:** Felipe Rodriguez Angel
